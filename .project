@@ -26,7 +26,7 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>uartstdio.c</name>
+			<name>code/uartstdio.c</name>
 			<type>1</type>
 			<locationURI>$%7BTIVAWARE%7D/utils/uartstdio.c</locationURI>
 		</link>
