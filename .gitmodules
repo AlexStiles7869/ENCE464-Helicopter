@@ -1,6 +1,3 @@
 [submodule "code"]
 	path = code
 	url = git@eng-git.canterbury.ac.nz:ence464-2023/Group_8.git
-[submodule "FreeRTOS"]
-	path = FreeRTOS
-	url = git@github.com:FreeRTOS/FreeRTOS-Kernel.git
