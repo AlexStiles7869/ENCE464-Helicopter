@@ -51,6 +51,7 @@
 									<listOptionValue builtIn="false" value="${PROJECT_ROOT}/code/drivers"/>
 									<listOptionValue builtIn="false" value="${PROJECT_ROOT}/code"/>
 									<listOptionValue builtIn="false" value="${TIVAWARE}"/>
+									<listOptionValue builtIn="false" value="${TIVAWARE}/driverlib/"/>
 									<listOptionValue builtIn="false" value="${PROJECT_ROOT}/FreeRTOS/include"/>
 									<listOptionValue builtIn="false" value="${PROJECT_ROOT}/FreeRTOS/portable/CCS/ARM_CM4F"/>
 									<listOptionValue builtIn="false" value="${CG_TOOL_ROOT}/include"/>
