@@ -12,7 +12,7 @@ Release/
 Flash/
 RAM/
 # Generated build artifacts
-makefile
+# makefile
 *.map
 *.mk
 *.opt
